@@ -6,6 +6,8 @@ import "../App.css";
 const Welcome = () => {
     const [quizState, dispatch] = useContext(QuizContext);
 
+/*início de tudo*/    
+
   return (
     <div id="welcome">
         <h2>Seja bem-vindo!</h2>
